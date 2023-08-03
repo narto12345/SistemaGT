@@ -1,0 +1,15 @@
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.csproj.AssemblyReference.cache
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.AssemblyInfoInputs.cache
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.AssemblyInfo.cs
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.csproj.CoreCompileInputs.cache
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\bin\Debug\net7.0\SistemaGT.exe
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\bin\Debug\net7.0\SistemaGT.deps.json
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\bin\Debug\net7.0\SistemaGT.runtimeconfig.json
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\bin\Debug\net7.0\SistemaGT.dll
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\bin\Debug\net7.0\SistemaGT.pdb
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.dll
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\refint\SistemaGT.dll
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.pdb
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\SistemaGT.genruntimeconfig.cache
+C:\Users\nicos\Desktop\Sistema de Gestión de Tareas\SistemaGT\obj\Debug\net7.0\ref\SistemaGT.dll
