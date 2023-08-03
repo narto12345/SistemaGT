@@ -1,4 +1,15 @@
 # SistemaGT
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+</head>
+
+<body>
+
+    <h1>SistemaGT</h1>
+
     <p>
         El código fuente del proyecto se encuentra en el directorio “SistemaGT”.
     </p>
@@ -20,3 +31,7 @@
     </ul>
     <p>Captura de pantalla:</p>
     <img src="image_1.png" width="579" height="429">
+
+</body>
+
+</html>
